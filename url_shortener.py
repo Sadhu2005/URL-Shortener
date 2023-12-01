@@ -30,3 +30,4 @@ def redirect_to_original_url(short_code):
         return "Short URL not found."
 if __name__ == '__main__':
     app.run(debug=True)
+    
